@@ -1,5 +1,5 @@
 # TaskSystem4j by Laurence Trippen
-An easy library to create Java based Task with timers.
+An easy library to create Java based tasks with timers.
 
 ## The Tester class
 
